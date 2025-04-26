@@ -6,11 +6,11 @@ Welcome to the **COVID-19 Global Dashboard** — an interactive dashboard built 
 
 ## 📂 Project Structure  
 ```
-├── countries_lat_long.csv   # Country latitude and longitude data  
-├── country_wise_latest.csv  # COVID-19 dataset from Kaggle  
-├── dashboard.py             # Main Python code to run the dashboard  
-└── country_long_lat_data.py # Project documentation (you're here!)
-└── README.md                # Project documentation (you're here!)  
+├── countries_lat_long.csv    # Country latitude and longitude data  
+├── country_wise_latest.csv   # COVID-19 dataset from Kaggle  
+├── dashboard.py              # Main Python code to run the dashboard  
+└── generate_long_lat_data.py # Project documentation (you're here!)
+└── README.md                 # Project documentation (you're here!)  
 ```
 
 ## 🚀 How to Run the Project  
