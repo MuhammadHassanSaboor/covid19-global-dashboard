@@ -9,6 +9,7 @@ Welcome to the **COVID-19 Global Dashboard** — an interactive dashboard built 
 ├── countries_lat_long.csv   # Country latitude and longitude data  
 ├── country_wise_latest.csv  # COVID-19 dataset from Kaggle  
 ├── dashboard.py             # Main Python code to run the dashboard  
+└── country_long_lat_data.py # Project documentation (you're here!)
 └── README.md                # Project documentation (you're here!)  
 ```
 
@@ -16,7 +17,7 @@ Welcome to the **COVID-19 Global Dashboard** — an interactive dashboard built 
 
 ### 1. Install Required Libraries  
 ```bash
-pip install dash pandas plotly dash-bootstrap-components
+pip install dash pandas plotly dash-bootstrap-components countryinfo
 ```  
 ### 2. Run the Dashboard  
 ```bash
